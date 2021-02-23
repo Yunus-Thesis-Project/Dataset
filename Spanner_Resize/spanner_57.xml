@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Spanner_Resize</folder>
+	<filename>spanner_57.jpg</filename>
+	<path>D:\Sekolah\Skripsi\Dataset\Spanner_Resize\spanner_57.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spanner</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>9</ymin>
+			<xmax>200</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>
