@@ -23,4 +23,16 @@
 			<ymax>300</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>obeng</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>67</ymin>
+			<xmax>106</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
 </annotation>
