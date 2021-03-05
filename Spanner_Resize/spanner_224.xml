@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Augment</folder>
+	<filename>spanner_224.jpg</filename>
+	<path>D:\Sekolah\Skripsi\Dataset\Augment\spanner_224.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spanner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>128</ymin>
+			<xmax>290</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>
