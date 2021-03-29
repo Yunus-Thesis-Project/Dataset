@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cutter</folder>
+	<filename>cutter_46.jpg</filename>
+	<path>D:\Sekolah\Skripsi\Dataset\dataset\dataset\cutter\cutter_46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cutter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>42</ymin>
+			<xmax>186</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>
